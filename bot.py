@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 
 import os
 
-TOKEN = os.getenv("8640511619:AAFCnoVNvOsR1pVpWh3fCW8y_j4WbJvEK-I")
+TOKEN = os.getenv("TOKEN")
 
 # МЕНЮ
 MAIN_KEYBOARD = [
